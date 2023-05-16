@@ -203,7 +203,9 @@ section {
     text-transform: capitalize;
 }
 
-
+.swiper-pagination-bullet-active {
+    background-color: var(--yellow);
+}
 
 
 
